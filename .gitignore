@@ -287,3 +287,4 @@ poetry.toml
 pyrightconfig.json
 
 database.db
+identifier.sqlite
